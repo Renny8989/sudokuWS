@@ -1,5 +1,4 @@
 import unittest
-# in larger project you store them in different folders and use python path so that the test code can import the production code
 import sudoku
 from sudoku import isFinished
 from sudoku import insert
